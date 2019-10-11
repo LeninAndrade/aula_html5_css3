@@ -1,8 +1,54 @@
+.navbar {
+    background-color: lightgreen;
+}
+
+.servicos {
+    background-color: lightblue;
+    color: white;
+}
+
+.parceiros {
+    background-color: lightcoral;
+    color: white;
+}
+
+.team {
+    background-color: lightseagreen;
+}
+
+.contato {
+    background-color: white;
+}
+
+.bg-footer {
+    background-color: black;
+    color: white;
+}
+
+.img_padrao {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.logo {
+    width: 150px;
+    margin-bottom: 20px;
+}
+
+.margin {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.rounded-circle {
+    margin: 10px;
+}
+
 body {
-    background: lightblue;
+    font: 20px Arial, sans-serif;
     margin-left: 50px;
     margin-right: 100px;
-};
+}
 
 header {
     margin-top: 70px;
@@ -19,17 +65,4 @@ h2 {
 
 p {
     font-size: 18px;
-}
-
-footer {
-    margin-bottom: 30px;
-}
-
-.img_padrao {
-    width: 200px;
-    margin-bottom: 20px;
-}
-
-.logo {
-    width: 80px;
 }
