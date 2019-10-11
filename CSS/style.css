@@ -1,0 +1,35 @@
+body {
+    background: lightblue;
+    margin-left: 50px;
+    margin-right: 100px;
+};
+
+header {
+    margin-top: 70px;
+}
+
+h1 {
+    color: darkgreen;
+    font-kerning: inherit;
+}
+
+h2 {
+    font-kerning: inherit;
+}
+
+p {
+    font-size: 18px;
+}
+
+footer {
+    margin-bottom: 30px;
+}
+
+.img_padrao {
+    width: 200px;
+    margin-bottom: 20px;
+}
+
+.logo {
+    width: 80px;
+}
